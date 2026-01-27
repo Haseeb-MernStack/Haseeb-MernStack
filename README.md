@@ -16,7 +16,7 @@
 - 🌱 Expanding skills in **TypeScript, Docker, Microservices, MCP Server, and Cloud Deployments**.  
 - 💬 Let’s talk about **React.js, Next.js, Node.js, TypeScript, MongoDB, API Design, and Open Source contributions**.  
 - 📦 Check out my latest npm package: [express-smart-response](https://www.npmjs.com/package/express-smart-response).  
-- 📫 Reach me at **seebpubg@gmail.com**  
+- 📫 Reach me at **mernstackerr@gmail.com**  
 - ⚡ Fun fact: *I debug faster when I talk to my console 😆*
 
 ---
