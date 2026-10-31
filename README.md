@@ -31,9 +31,9 @@ I care about the parts of engineering that outlast a single release: clear archi
 
 ## 🌟 Featured: Community Open-Source Project
 
-> **[Commune]** is a community-driven, fully open-source project built to industry standards and open to developers of every level.
+> **Commune** is a community-driven, fully open-source project built to industry standards and open to developers of every level.
 
-**[One or two sentences: what problem it solves and who it is for.]**
+**One or two sentences: what problem it solves and who it is for.**
 
 | | |
 |---|---|
@@ -44,8 +44,8 @@ I care about the parts of engineering that outlast a single release: clear archi
 | 📜 **License** | MIT |
 
 <p>
-  <a href="[https://github.com/haseeb-mernstack/YOUR-REPO](https://github.com/Haseeb-MernStack/commune)"><img src="https://img.shields.io/badge/View%20Repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
-  <a href="[https://github.com/haseeb-mernstack/YOUR-REPO/blob/main/CONTRIBUTING.md](https://github.com/Haseeb-MernStack/commune/blob/main/CONTRIBUTING.md)"><img src="https://img.shields.io/badge/How%20to%20Contribute-00c896?style=for-the-badge&logo=git&logoColor=white" alt="Contribute" /></a>
+  <a href="[https://github.com/Haseeb-MernStack/commune](https://github.com/Haseeb-MernStack/commune)"><img src="https://img.shields.io/badge/View%20Repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+  <a href="[https://github.com/Haseeb-MernStack/commune/blob/main/CONTRIBUTING.md](https://github.com/Haseeb-MernStack/commune/blob/main/CONTRIBUTING.md)"><img src="https://img.shields.io/badge/How%20to%20Contribute-00c896?style=for-the-badge&logo=git&logoColor=white" alt="Contribute" /></a>
 </p>
 
 ---
