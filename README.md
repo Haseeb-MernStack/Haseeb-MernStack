@@ -1,74 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c896&height=200&section=header&text=Haseeb%20MernStack&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Engineer%20%E2%80%A2%20Open%20Source%20Builder&descSize=18&descAlignY=58" alt="Haseeb MernStack" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b1020,50:0e75b6,100:00c896&height=240&section=header&text=Haseeb%20MernStack&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=MERN%20Stack%20Engineer%20%C2%B7%20Open%20Source%20Builder%20%C2%B7%20System%20Designer&descSize=18&descAlignY=62" alt="Haseeb MernStack" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=I+build+scalable+web+applications.;I+publish+tools+other+developers+actually+use.;I+believe+in+clean+code+and+open+collaboration." alt="Typing SVG" /></a>
+<a href="https://github.com/Haseeb-MernStack"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00C896&center=true&vCenter=true&repeat=true&width=820&height=50&lines=%24+build+--scalable+--production-ready;%24+publish+--npm+--open-source;%24+design+--api+--consistent+--secure;%24+ship+--tested+--documented+--maintainable" alt="Typing animation" /></a>
+
+<br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=haseeb-mernstack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://www.npmjs.com/package/express-smart-response"><img src="https://img.shields.io/npm/v/express-smart-response?style=flat&color=cb3837&logo=npm&label=express-smart-response" alt="npm" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00c896?style=flat" alt="Open to collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=haseeb-mernstack&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Haseeb-MernStack?tab=followers"><img src="https://img.shields.io/github/followers/Haseeb-MernStack?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" /></a>
+  <a href="https://www.npmjs.com/package/express-smart-response"><img src="https://img.shields.io/npm/v/express-smart-response?style=for-the-badge&logo=npm&color=cb3837&label=express-smart-response" alt="npm" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00c896?style=for-the-badge" alt="Open to collaboration" />
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-I'm a **MERN stack engineer** focused on one thing: turning real problems into **production-ready, maintainable software**.
+```ts
+const haseeb = {
+  role: "MERN Stack Engineer",
+  focus: ["Scalable web apps", "Developer tooling", "Open source"],
+  building: ["Learning Management System", "Commune (community open source)"],
+  shipping: ["express-smart-response", "clean-mongoose"],
+  learning: ["TypeScript (deep)", "Docker", "Microservices", "MCP Servers", "Cloud / CI-CD"],
+  principles: ["Maintainable first", "Typed contracts", "Tested & automated", "Documented", "Open by default"],
+  contact: "mernstackerr@gmail.com",
+} as const;
+```
 
-I care about the parts of engineering that outlast a single release: clear architecture, consistent API design, meaningful tests, and documentation that respects the next developer's time. Whether it's a full-stack product or a small utility package, I build it to the standard I'd want to inherit.
-
-- 🏗️ **Building:** a production-grade **Learning Management System (LMS)** with the MERN stack
-- 📦 **Publishing:** developer-friendly npm packages, like [`express-smart-response`](https://www.npmjs.com/package/express-smart-response)
-- 🌍 **Leading:** an open-source community project built in public and open to contributors (see below)
-- 🌱 **Learning:** TypeScript at depth, Docker, microservices, MCP servers, and cloud deployment
-- 💬 **Ask me about:** React, Next.js, Node.js, TypeScript, MongoDB, API design, open source
-- 📫 **Reach me:** [mernstackerr@gmail.com](mailto:mernstackerr@gmail.com)
+I turn real problems into **production-ready, maintainable software**. I care about the parts of engineering that outlast a single release: clear architecture, consistent API design, meaningful tests, and documentation that respects the next developer's time.
 
 ---
 
-## 🌟 Featured: Community Open-Source Project
+## 🌟 Featured: Commune
 
-> **Commune** is a community-driven, fully open-source project built to industry standards and open to developers of every level.
+<div align="center">
 
-**One or two sentences: what problem it solves and who it is for.**
+<a href="https://github.com/Haseeb-MernStack/commune"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Haseeb-MernStack&repo=commune&theme=tokyonight&hide_border=true" alt="Commune repository card" /></a>
+
+</div>
+
+> **Commune** is a community-driven, fully open-source project, built in public to industry standards and open to developers of every level.
 
 | | |
 |---|---|
-| 🎯 **Mission** | Build something useful, in the open, with the community |
-| 🧱 **Standards** | Clean architecture, TypeScript, linting, automated tests, CI/CD |
-| 📖 **Documentation** | Clear setup guide, contribution guide, and code of conduct |
+| 🎯 **Mission** | Build something genuinely useful, in the open, with the community |
+| 🧱 **Engineering** | Clean architecture, TypeScript, linting, automated tests, CI/CD |
+| 📖 **Docs** | Setup guide, contribution guide, code of conduct |
 | 🤝 **Contributors** | Beginner-friendly issues labeled `good first issue` |
 | 📜 **License** | MIT |
 
-<p>
-  <a href="[https://github.com/Haseeb-MernStack/commune](https://github.com/Haseeb-MernStack/commune)"><img src="https://img.shields.io/badge/View%20Repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
-  <a href="[https://github.com/Haseeb-MernStack/commune/blob/main/CONTRIBUTING.md](https://github.com/Haseeb-MernStack/commune/blob/main/CONTRIBUTING.md)"><img src="https://img.shields.io/badge/How%20to%20Contribute-00c896?style=for-the-badge&logo=git&logoColor=white" alt="Contribute" /></a>
+<p align="center">
+  <a href="https://github.com/Haseeb-MernStack/commune"><img src="https://img.shields.io/badge/View%20Repository-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repository" /></a>
+  <a href="https://github.com/Haseeb-MernStack/commune/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/How%20to%20Contribute-00c896?style=for-the-badge&logo=git&logoColor=white" alt="Contribute" /></a>
+  <a href="https://github.com/Haseeb-MernStack/commune/issues"><img src="https://img.shields.io/badge/Open%20Issues-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Issues" /></a>
 </p>
 
 ---
 
-## 🧭 How I Build
+## 🏗️ How I Architect
 
-| Principle | What it means in practice |
+```mermaid
+flowchart LR
+    U([Client<br/>React / Next.js]) -->|HTTPS| G[API Gateway<br/>Express + Validation]
+    G --> A[Auth & RBAC<br/>JWT]
+    G --> S[Service Layer<br/>Business Logic]
+    S --> D[(MongoDB<br/>Mongoose)]
+    S --> C[(Redis<br/>Cache)]
+    S --> Q[[Background Jobs]]
+    G -.-> O[Logging & Metrics]
+    CI{{CI/CD<br/>Docker + Tests}} -.-> G
+```
+
+| Principle | In practice |
 |---|---|
-| **Maintainable first** | Code is read far more often than it is written, so I write for the reader |
-| **Consistent APIs** | Predictable responses, clear errors, and proper validation |
-| **Tested and automated** | Tests and CI catch problems before users do |
-| **Documented** | A project isn't finished until someone else can run it in minutes |
-| **Open by default** | Sharing work and learning from the community makes everyone better |
+| **Maintainable first** | Code is read far more than it is written, so I write for the reader |
+| **Consistent APIs** | Predictable response shapes, clear errors, strict input validation |
+| **Typed contracts** | TypeScript across the stack so interfaces fail at compile time, not in production |
+| **Tested & automated** | Tests and CI catch problems before users do |
+| **Open by default** | Sharing work and learning in public makes everyone better |
 
 ---
 
-## 📦 Projects
+## 📦 Open-Source Packages
 
-| Project | Description | Stack |
+<div align="center">
+
+<a href="https://www.npmjs.com/package/express-smart-response"><img src="https://img.shields.io/badge/npm-express--smart--response-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="express-smart-response" /></a>
+<a href="https://github.com/Haseeb-MernStack/clean-mongoose"><img src="https://img.shields.io/badge/npm-@haseebmernstack/clean--mongoose-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="clean-mongoose" /></a>
+
+</div>
+
+| Package | What it solves | Stack |
 |---|---|---|
-| 🎓 **Learning Management System** | Production-ready LMS with courses, users, and progress tracking | MERN, TypeScript |
-| 📦 [**express-smart-response**](https://www.npmjs.com/package/express-smart-response) | npm package for consistent, clean API responses in Express | Node.js, Express |
-| 🌍 **[Community Project]** | Open-source, community-driven, built to industry standards | See repository |
+| [**express-smart-response**](https://www.npmjs.com/package/express-smart-response) | Consistent, clean API responses for Express apps | Node.js, Express |
+| [**clean-mongoose**](https://github.com/Haseeb-MernStack/clean-mongoose) | Safe API output from Mongoose documents: `_id` becomes `id`, `__v` and private fields are removed | TypeScript, Mongoose |
 
 ---
 
@@ -76,23 +105,26 @@ I care about the parts of engineering that outlast a single release: clear archi
 
 <div align="center">
 
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,mongodb,redis,docker,aws,jest,git,github,vercel&perline=7" alt="Tech stack" />
 
-**Backend**<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
 
-**DevOps and Quality**<br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+---
+
+## 📊 Activity & Stats
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Haseeb-MernStack&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-MernStack&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb-MernStack&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-MernStack&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -100,43 +132,32 @@ I care about the parts of engineering that outlast a single release: clear archi
 
 ## 🔭 Roadmap
 
-- [x] Ship and maintain open-source npm packages
-- [x] Build a full-stack LMS with the MERN stack
-- [ ] Grow the community project with contributors and releases
+- [x] Publish open-source npm packages
+- [x] Build a full-stack LMS on the MERN stack
+- [ ] Grow **Commune** with contributors, releases, and a public roadmap
 - [ ] Move toward microservices and cloud-native deployment (Docker, AWS, CI/CD)
 - [ ] Build MCP servers and AI-assisted developer tooling
-- [ ] Explore Next.js App Router with SSR/ISR patterns
-- [ ] Publish new open-source tools regularly
+- [ ] Go deeper on Next.js App Router with SSR/ISR patterns
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Build Together
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haseeb-mernstack&show_icons=true&theme=default&hide_border=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=haseeb-mernstack&layout=compact&hide_border=true" alt="Top languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseeb-mernstack&hide_border=true" alt="Streak" />
-</div>
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always glad to talk about open source, backend architecture, or building useful developer tools. If you want to contribute to the community project, open an issue or send a pull request.
+Open to conversations about **open source, backend architecture, and developer tooling**. Want to contribute to Commune? Open an issue or send a pull request.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/haseeb-mernstack-973aa732a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mernstackerr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.youtube.com/@haseebmernstack"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.instagram.com/haseeb_mernstack/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=61568415121623"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/haseeb-mernstack-973aa732a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mernstackerr@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.youtube.com/@haseebmernstack"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/haseeb_mernstack/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=61568415121623"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://bsky.app/profile/haseeb-mernstack.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
 
 <br/><br/>
 
 **Clean code. Scalable systems. Open source.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c896&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c896&height=110&section=footer&animation=twinkling" width="100%" alt="" />
 
 </div>
