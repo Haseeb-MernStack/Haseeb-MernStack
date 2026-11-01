@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Haseeb MernStack - MERN Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#0a1a33"/>
+      <stop offset="1" stop-color="#062a2a"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e75b6"/>
+      <stop offset="1" stop-color="#00c896"/>
+    </linearGradient>
+    <radialGradient id="core">
+      <stop offset="0" stop-color="#00c896" stop-opacity="0.95"/>
+      <stop offset="0.5" stop-color="#0e75b6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0e75b6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob1">
+      <stop offset="0" stop-color="#0e75b6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0e75b6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2">
+      <stop offset="0" stop-color="#00c896" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00c896" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1d3350" stroke-width="1" opacity="0.55"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="7s" repeatCount="indefinite"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1000" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <style>
+    .name{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-weight:800;font-size:58px;letter-spacing:2px;
+      fill:url(#ac);fill-opacity:0;stroke:url(#ac);stroke-width:1.6;stroke-dasharray:1400;stroke-dashoffset:1400;
+      animation:draw 2.6s cubic-bezier(.65,0,.35,1) forwards,fillin 1s 2.2s ease forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    @keyframes fillin{to{fill-opacity:1;stroke-width:0}}
+    .role{font-family:'JetBrains Mono',Consolas,Menlo,monospace;font-size:22px;fill:#9fe9d2;opacity:0;
+      animation:cycle 12s linear infinite}
+    .r1{animation-delay:0s}.r2{animation-delay:3s}.r3{animation-delay:6s}.r4{animation-delay:9s}
+    @keyframes cycle{0%{opacity:0;transform:translateY(12px)}4%{opacity:1;transform:translateY(0)}21%{opacity:1;transform:translateY(0)}25%{opacity:0;transform:translateY(-12px)}100%{opacity:0;transform:translateY(-12px)}}
+    .tag{font-family:'JetBrains Mono',Consolas,Menlo,monospace;font-size:13px;fill:#6f8aa8;animation:fade 1.2s 3s ease backwards}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    .live{font-family:'JetBrains Mono',Consolas,Menlo,monospace;font-size:13px;fill:#cfe8ff;animation:fade 1s 3.4s ease backwards}
+    .dot{animation:blink 1.4s infinite}
+    @keyframes blink{50%{opacity:.2}}
+    .float{animation:bob 5s ease-in-out infinite}
+    @keyframes bob{50%{transform:translateY(-8px)}}
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="320" fill="url(#bg)"/>
+    <rect width="1000" height="320" fill="url(#grid)"/>
+
+    <!-- drifting light blobs -->
+    <circle r="220" fill="url(#blob1)">
+      <animate attributeName="cx" values="150;380;150" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="60;260;60" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="200" fill="url(#blob2)">
+      <animate attributeName="cx" values="880;620;880" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="260;60;260" dur="12s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- rising particles -->
+    <g fill="#00c896">
+      <circle cx="80" r="2"><animate attributeName="cy" values="340;-10" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="9s" repeatCount="indefinite"/></circle>
+      <circle cx="190" r="1.5"><animate attributeName="cy" values="340;-10" dur="12s" begin="-4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;0" dur="12s" begin="-4s" repeatCount="indefinite"/></circle>
+      <circle cx="310" r="2.5"><animate attributeName="cy" values="340;-10" dur="10s" begin="-7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.6;0" dur="10s" begin="-7s" repeatCount="indefinite"/></circle>
+      <circle cx="430" r="1.5"><animate attributeName="cy" values="340;-10" dur="14s" begin="-2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="14s" begin="-2s" repeatCount="indefinite"/></circle>
+      <circle cx="540" r="2"><animate attributeName="cy" values="340;-10" dur="11s" begin="-9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;0" dur="11s" begin="-9s" repeatCount="indefinite"/></circle>
+      <circle cx="650" r="1.5"><animate attributeName="cy" values="340;-10" dur="13s" begin="-5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="13s" begin="-5s" repeatCount="indefinite"/></circle>
+      <circle cx="740" r="2"><animate attributeName="cy" values="340;-10" dur="8s" begin="-3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.6;0" dur="8s" begin="-3s" repeatCount="indefinite"/></circle>
+      <circle cx="950" r="2"><animate attributeName="cy" values="340;-10" dur="10s" begin="-6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.7;0" dur="10s" begin="-6s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- 3D-style gyroscope -->
+    <g class="float">
+      <circle cx="865" cy="160" r="95" fill="url(#core)">
+        <animate attributeName="r" values="80;100;80" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="865" cy="160" r="9" fill="#e8fff8">
+        <animate attributeName="opacity" values="1;.55;1" dur="2s" repeatCount="indefinite"/>
+      </circle>
+
+      <ellipse cx="865" cy="160" ry="105" rx="105" fill="none" stroke="#00c896" stroke-width="1.6" opacity=".85">
+        <animate attributeName="rx" values="105;8;105" dur="7s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="865" cy="160" ry="105" rx="105" fill="none" stroke="#0e75b6" stroke-width="1.6" opacity=".9">
+        <animate attributeName="rx" values="105;8;105" dur="7s" begin="-2.33s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="865" cy="160" ry="105" rx="105" fill="none" stroke="#7fe3ff" stroke-width="1.2" opacity=".7">
+        <animate attributeName="rx" values="105;8;105" dur="7s" begin="-4.66s" repeatCount="indefinite"/>
+      </ellipse>
+
+      <ellipse cx="865" cy="160" rx="135" ry="34" fill="none" stroke="#1d3350" stroke-width="1" stroke-dasharray="3 6"/>
+      <circle r="5" fill="#00c896">
+        <animateMotion dur="6s" repeatCount="indefinite" path="M730,160 a135,34 0 1,0 270,0 a135,34 0 1,0 -270,0"/>
+      </circle>
+      <circle r="4" fill="#0e75b6">
+        <animateMotion dur="6s" begin="-3s" repeatCount="indefinite" path="M730,160 a135,34 0 1,0 270,0 a135,34 0 1,0 -270,0"/>
+      </circle>
+    </g>
+
+    <!-- text -->
+    <text class="name" x="56" y="140">HASEEB MERNSTACK</text>
+
+    <g transform="translate(58 188)">
+      <text class="role r1">MERN Stack Engineer</text>
+      <text class="role r2">Open Source Builder</text>
+      <text class="role r3">System Designer</text>
+      <text class="role r4">API Architect</text>
+    </g>
+
+    <text class="tag" x="58" y="232">scalable  /  typed  /  tested  /  documented  /  open by default</text>
+
+    <circle class="dot" cx="64" cy="276" r="5" fill="#00c896"/>
+    <text class="live" x="80" y="281">Building Commune in public  -  shipping npm packages</text>
+
+    <!-- light sweep across the whole banner -->
+    <rect y="0" width="140" height="320" fill="#ffffff" opacity="0.05" transform="skewX(-20)">
+      <animate attributeName="x" values="-300;1200" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="319" rx="18" fill="none" stroke="url(#ac)" stroke-opacity="0.5"/>
+</svg>

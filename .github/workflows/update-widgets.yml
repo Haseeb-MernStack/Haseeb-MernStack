@@ -1,0 +1,35 @@
+name: Update profile widgets
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:         # manual run button in the Actions tab
+  push:
+    branches: [main]
+    paths: ['scripts/**']
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Generate widgets
+        run: node scripts/generate.mjs
+        env:
+          # Optional: add a PAT secret named PROFILE_TOKEN (scope: read:user) to count private contributions.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: Haseeb-MernStack
+          FEATURED_REPO: commune
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated
+          git diff --staged --quiet || git commit -m "chore: refresh profile widgets"
+          git push

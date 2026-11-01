@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Terminal: whoami">
+  <defs>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e75b6"/><stop offset="1" stop-color="#00c896"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1000" height="360" rx="14"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'JetBrains Mono',Consolas,Menlo,monospace;font-size:16px}
+    .k{fill:#c792ea}.s{fill:#9fe9d2}.p{fill:#7fe3ff}.c{fill:#5b7391}.w{fill:#e6edf7}.y{fill:#ffcb6b}
+    .l{opacity:0;animation:show .01s forwards}
+    @keyframes show{to{opacity:1}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .scan{animation:scan 5s linear infinite}
+    @keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(400px)}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="360" fill="#0b1020"/>
+    <rect width="1000" height="38" fill="#111a30"/>
+    <circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="46" cy="19" r="6" fill="#ffbd2e"/><circle cx="68" cy="19" r="6" fill="#27c93f"/>
+    <text x="500" y="24" text-anchor="middle" class="c" font-size="13">haseeb@mernstack: ~/profile</text>
+
+    <text x="28" y="72" class="l" style="animation-delay:.3s"><tspan class="s">$</tspan><tspan class="w"> whoami</tspan></text>
+    <text x="28" y="98" class="l p" style="animation-delay:1s">haseeb  /  mern-stack-engineer</text>
+
+    <text x="28" y="132" class="l" style="animation-delay:1.8s"><tspan class="s">$</tspan><tspan class="w"> cat focus.json</tspan></text>
+    <g class="l" style="animation-delay:2.5s">
+      <text x="28" y="158" class="w">{</text>
+      <text x="52" y="182"><tspan class="p">"role"</tspan><tspan class="w">: </tspan><tspan class="s">"MERN Stack Engineer"</tspan><tspan class="w">,</tspan></text>
+    </g>
+    <text x="52" y="206" class="l" style="animation-delay:3.1s"><tspan class="p">"building"</tspan><tspan class="w">: [</tspan><tspan class="s">"LMS"</tspan><tspan class="w">, </tspan><tspan class="s">"Commune"</tspan><tspan class="w">],</tspan></text>
+    <text x="52" y="230" class="l" style="animation-delay:3.7s"><tspan class="p">"shipping"</tspan><tspan class="w">: [</tspan><tspan class="s">"express-smart-response"</tspan><tspan class="w">, </tspan><tspan class="s">"clean-mongoose"</tspan><tspan class="w">],</tspan></text>
+    <text x="52" y="254" class="l" style="animation-delay:4.3s"><tspan class="p">"learning"</tspan><tspan class="w">: [</tspan><tspan class="s">"TypeScript"</tspan><tspan class="w">, </tspan><tspan class="s">"Docker"</tspan><tspan class="w">, </tspan><tspan class="s">"Microservices"</tspan><tspan class="w">, </tspan><tspan class="s">"MCP"</tspan><tspan class="w">],</tspan></text>
+    <text x="52" y="278" class="l" style="animation-delay:4.9s"><tspan class="p">"status"</tspan><tspan class="w">: </tspan><tspan class="y">"open to collaboration"</tspan></text>
+    <text x="28" y="302" class="l w" style="animation-delay:5.2s">}</text>
+
+    <text x="28" y="334" class="l" style="animation-delay:5.8s"><tspan class="s">$</tspan><tspan class="w"> </tspan><tspan class="cur s">_</tspan></text>
+
+    <rect class="scan" width="1000" height="40" fill="#00c896" opacity="0.04"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="359" rx="14" fill="none" stroke="url(#ac)" stroke-opacity="0.55"/>
+</svg>

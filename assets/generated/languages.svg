@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="240" viewBox="0 0 495 240" role="img" aria-label="Top languages">
+<defs>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0e75b6"/><stop offset="1" stop-color="#00c896"/></linearGradient>
+  <linearGradient id="fillg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00c896" stop-opacity=".35"/><stop offset="1" stop-color="#0e75b6" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect width="495" height="240" rx="14"/></clipPath>
+</defs>
+<style>
+  text{font-family:'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf7;font-size:13px}
+  .m{font-family:'JetBrains Mono',Consolas,Menlo,monospace}
+  .h{font-size:16px;font-weight:700;fill:#9fe9d2}
+  .dim{fill:#7f98b6}
+  .in{animation:in .7s ease backwards}
+  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  
+</style>
+<g clip-path="url(#c)">
+<rect width="495" height="240" fill="#0b1020"/>
+<text class="h" x="28" y="36">Top Languages</text><text x="28" y="100" class="dim">Waiting for the first workflow run…</text>
+</g>
+<rect x=".5" y=".5" width="494" height="239" rx="14" fill="none" stroke="url(#ac)" stroke-opacity=".55"/>
+</svg>
