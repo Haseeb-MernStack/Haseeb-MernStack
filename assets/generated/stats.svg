@@ -36,11 +36,11 @@
     </g>
     <g class="in" style="animation-delay:0.55s">
       <text x="28" y="194" class="dim">Public repos</text>
-      <text class="m" x="230" y="194" text-anchor="end" style="font-weight:700">209</text>
+      <text class="m" x="230" y="194" text-anchor="end" style="font-weight:700">210</text>
     </g>
     <g class="in" style="animation-delay:0.65s">
       <text x="28" y="223" class="dim">Followers</text>
-      <text class="m" x="230" y="223" text-anchor="end" style="font-weight:700">114</text>
+      <text class="m" x="230" y="223" text-anchor="end" style="font-weight:700">115</text>
     </g>
   <g transform="translate(375 126)">
     <circle r="46" fill="none" stroke="#1d3350" stroke-width="7"/>
