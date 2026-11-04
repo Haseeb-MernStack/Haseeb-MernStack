@@ -17,19 +17,19 @@
 <rect width="495" height="240" fill="#0b1020"/>
 <text class="h" x="28" y="36">Top Languages</text>
   <clipPath id="bar"><rect x="28" y="54" width="439" height="12" rx="6"><animate attributeName="width" from="0" to="439" dur="1.4s" fill="freeze" calcMode="spline" keySplines=".65 0 .35 1" keyTimes="0;1"/></rect></clipPath>
-  <g clip-path="url(#bar)"><rect x="28.0" y="54" width="377.7" height="12" fill="#3178c6"/><rect x="405.7" y="54" width="35.9" height="12" fill="#563d7c"/><rect x="441.6" y="54" width="18.7" height="12" fill="#f1e05a"/><rect x="460.3" y="54" width="6.1" height="12" fill="#e34c26"/><rect x="466.4" y="54" width="0.6" height="12" fill="#384d54"/></g><g class="in" style="animation-delay:0.4s" transform="translate(28 112)">
+  <g clip-path="url(#bar)"><rect x="28.0" y="54" width="384.0" height="12" fill="#3178c6"/><rect x="412.0" y="54" width="31.9" height="12" fill="#563d7c"/><rect x="443.9" y="54" width="17.3" height="12" fill="#f1e05a"/><rect x="461.2" y="54" width="5.3" height="12" fill="#e34c26"/><rect x="466.5" y="54" width="0.5" height="12" fill="#384d54"/></g><g class="in" style="animation-delay:0.4s" transform="translate(28 112)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
       <text x="16" y="0">TypeScript</text>
-      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">86.0%</text></g><g class="in" style="animation-delay:0.5s" transform="translate(253 112)">
+      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">87.5%</text></g><g class="in" style="animation-delay:0.5s" transform="translate(253 112)">
       <circle cx="5" cy="-4" r="5" fill="#563d7c"/>
       <text x="16" y="0">CSS</text>
-      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">8.2%</text></g><g class="in" style="animation-delay:0.6000000000000001s" transform="translate(28 150)">
+      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">7.3%</text></g><g class="in" style="animation-delay:0.6000000000000001s" transform="translate(28 150)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
       <text x="16" y="0">JavaScript</text>
-      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">4.3%</text></g><g class="in" style="animation-delay:0.7000000000000001s" transform="translate(253 150)">
+      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">3.9%</text></g><g class="in" style="animation-delay:0.7000000000000001s" transform="translate(253 150)">
       <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
       <text x="16" y="0">HTML</text>
-      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">1.4%</text></g><g class="in" style="animation-delay:0.8s" transform="translate(28 188)">
+      <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">1.2%</text></g><g class="in" style="animation-delay:0.8s" transform="translate(28 188)">
       <circle cx="5" cy="-4" r="5" fill="#384d54"/>
       <text x="16" y="0">Dockerfile</text>
       <text class="m dim" x="195" y="0" text-anchor="end" style="font-size:12px">0.1%</text></g>
