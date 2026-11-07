@@ -20,15 +20,15 @@
   
     <g class="in" style="animation-delay:0.15s">
       <text x="28" y="78" class="dim">Total stars</text>
-      <text class="m" x="230" y="78" text-anchor="end" style="font-weight:700">29</text>
+      <text class="m" x="230" y="78" text-anchor="end" style="font-weight:700">15</text>
     </g>
     <g class="in" style="animation-delay:0.25s">
       <text x="28" y="107" class="dim">Commits (last year)</text>
-      <text class="m" x="230" y="107" text-anchor="end" style="font-weight:700">208</text>
+      <text class="m" x="230" y="107" text-anchor="end" style="font-weight:700">215</text>
     </g>
     <g class="in" style="animation-delay:0.35s">
       <text x="28" y="136" class="dim">Pull requests</text>
-      <text class="m" x="230" y="136" text-anchor="end" style="font-weight:700">51</text>
+      <text class="m" x="230" y="136" text-anchor="end" style="font-weight:700">53</text>
     </g>
     <g class="in" style="animation-delay:0.45000000000000007s">
       <text x="28" y="165" class="dim">Issues</text>
@@ -40,7 +40,7 @@
     </g>
     <g class="in" style="animation-delay:0.65s">
       <text x="28" y="223" class="dim">Followers</text>
-      <text class="m" x="230" y="223" text-anchor="end" style="font-weight:700">117</text>
+      <text class="m" x="230" y="223" text-anchor="end" style="font-weight:700">116</text>
     </g>
   <g transform="translate(375 126)">
     <circle r="46" fill="none" stroke="#1d3350" stroke-width="7"/>
