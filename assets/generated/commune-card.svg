@@ -22,7 +22,7 @@
     <g transform="translate(28 96)"><rect width="108" height="24" rx="12" fill="#0e75b6" fill-opacity=".18" stroke="#0e75b6" stroke-opacity=".6"/><text class="m" x="54" y="16" text-anchor="middle" style="font-size:11px;fill:#7fe3ff">docker</text></g><g transform="translate(148 96)"><rect width="108" height="24" rx="12" fill="#0e75b6" fill-opacity=".18" stroke="#0e75b6" stroke-opacity=".6"/><text class="m" x="54" y="16" text-anchor="middle" style="font-size:11px;fill:#7fe3ff">mernstack</text></g><g transform="translate(268 96)"><rect width="108" height="24" rx="12" fill="#0e75b6" fill-opacity=".18" stroke="#0e75b6" stroke-opacity=".6"/><text class="m" x="54" y="16" text-anchor="middle" style="font-size:11px;fill:#7fe3ff">nodejs</text></g><g transform="translate(388 96)"><rect width="108" height="24" rx="12" fill="#0e75b6" fill-opacity=".18" stroke="#0e75b6" stroke-opacity=".6"/><text class="m" x="54" y="16" text-anchor="middle" style="font-size:11px;fill:#7fe3ff">open-source</text></g>
     <g transform="translate(28 152)" class="m" style="font-size:12px">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/><text x="16" y="0">TypeScript</text>
-      <text x="150" y="0">★ 5</text>
+      <text x="150" y="0">★ 6</text>
       <text x="230" y="0">⑂ 4</text>
       <text x="310" y="0" class="dim">MIT</text>
     </g>
