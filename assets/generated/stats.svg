@@ -40,15 +40,15 @@
     </g>
     <g class="in" style="animation-delay:0.65s">
       <text x="28" y="223" class="dim">Followers</text>
-      <text class="m" x="230" y="223" text-anchor="end" style="font-weight:700">116</text>
+      <text class="m" x="230" y="223" text-anchor="end" style="font-weight:700">117</text>
     </g>
   <g transform="translate(375 126)">
     <circle r="46" fill="none" stroke="#1d3350" stroke-width="7"/>
     <circle r="46" fill="none" stroke="url(#ac)" stroke-width="7" stroke-linecap="round" transform="rotate(-90)"
-      stroke-dasharray="289.0" stroke-dashoffset="206.4">
-      <animate attributeName="stroke-dashoffset" from="289.0" to="206.4" dur="1.6s" fill="freeze" calcMode="spline" keySplines=".65 0 .35 1" keyTimes="0;1"/>
+      stroke-dasharray="289.0" stroke-dashoffset="192.7">
+      <animate attributeName="stroke-dashoffset" from="289.0" to="192.7" dur="1.6s" fill="freeze" calcMode="spline" keySplines=".65 0 .35 1" keyTimes="0;1"/>
     </circle>
-    <text class="m" y="4" text-anchor="middle" style="font-size:26px;font-weight:800">6</text>
+    <text class="m" y="4" text-anchor="middle" style="font-size:26px;font-weight:800">7</text>
     <text y="22" text-anchor="middle" class="dim" style="font-size:10px;letter-spacing:1px">DAY STREAK</text>
   </g>
   <text x="375" y="204" text-anchor="middle" class="dim m" style="font-size:10px">longest 21</text>
