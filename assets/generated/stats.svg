@@ -20,7 +20,7 @@
   
     <g class="in" style="animation-delay:0.15s">
       <text x="28" y="78" class="dim">Total stars</text>
-      <text class="m" x="230" y="78" text-anchor="end" style="font-weight:700">17</text>
+      <text class="m" x="230" y="78" text-anchor="end" style="font-weight:700">16</text>
     </g>
     <g class="in" style="animation-delay:0.25s">
       <text x="28" y="107" class="dim">Commits (last year)</text>
